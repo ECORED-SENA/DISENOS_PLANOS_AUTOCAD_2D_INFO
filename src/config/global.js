@@ -35,6 +35,12 @@ export default {
         cargo: 'Diseñador instruccional',
         centro: 'Centro Agropecuario la Granja – Regional Tolima',
       },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñador y evaluadora instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica – Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
